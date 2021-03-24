@@ -1,2 +1,2 @@
 # Legacy-Medical
-front facing website for legacy medical group.
+Project put on hold due to buissness and hosting issues.
